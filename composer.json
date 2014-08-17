@@ -1,0 +1,13 @@
+{
+  "name": "asolberg/facebook-php-sdk-v4-response-pagination-test",
+  "description": "A test for response pagination of the Facebook PHP SDK v4",
+  "authors": [
+        {   
+            "name": "Arian Solberg",
+            "homepage": "https://github.com/asolberg"
+        }   
+  ],
+  "require" : {
+    "facebook/php-sdk-v4" : "4.0.*"
+  }
+}
